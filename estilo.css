@@ -1,0 +1,28 @@
+img{
+    width: 500px;
+    height: 300px;
+    border-radius: 30px;
+}
+.preparation{
+    background-color: pink;
+    border-radius: 5px;
+    padding: 5%;
+}
+body{
+    font-family: arial;
+    font-size:  20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: justify;
+
+}
+table{
+    margin-left: 20%;
+    border-spacing: 40px;
+}
+h3{
+    color: red;
+}
+th{
+    color: red;
+}
